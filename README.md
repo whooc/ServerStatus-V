@@ -1,10 +1,10 @@
 # ServerStatus-V
-
-[ServerStatus-V](https://github.com/P3TERX/ServerStatus-V) 是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针。使用方便，信息直观。ServerStatus-V 是 [ServerStatus 中文版](https://github.com/tenyue/ServerStatus) 项目的优化/修改版。
+# 自用 自用 自用！！！
+[ServerStatus-V](https://github.com/whooc/ServerStatus-V/) 是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针。使用方便，信息直观。ServerStatus-V 是 [ServerStatus 中文版](https://github.com/tenyue/ServerStatus) 项目的优化/修改版。
 
 ServerStatus-V 通过 vnStat 获取月流量数据，如未安装流量数据不会显示。[vnStat 安装教程](https://p3terx.com/archives/statistics-vps-traffic-using-vnstat-under-linux.html)
 
-![image](https://raw.githubusercontent.com/P3TERX/ServerStatus-V/master/demo-desktop.png)
+![image](https://raw.githubusercontent.com/whooc/ServerStatus-V/master/demo-desktop.png)
 
 # 目录介绍
 
@@ -17,7 +17,7 @@ ServerStatus-V 通过 vnStat 获取月流量数据，如未安装流量数据不
 
 执行下面的代码下载并运行脚本，如果脚本有更新，也可使用下面的命令来更新。
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/P3TERX/ServerStatus-V/master/status.sh && chmod +x status.sh && bash status.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/whooc/ServerStatus-V/master/status.sh && chmod +x status.sh && bash status.sh
 ```
 下载脚本后，根据需要安装客户端或者服务端：
 ```
